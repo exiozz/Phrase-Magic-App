@@ -560,7 +560,22 @@ Tout fonctionne directement dans le navigateur, sans backend.
 
 ## 📄 Licence
 
-Aucune licence spécifique n'est définie dans le projet actuel.
+Licence — Exiozz
 
-Si ce projet doit être publié ou partagé, ajoute une licence adaptée,
-par exemple MIT.
+Copyright © 2026 Exiozz. Tous droits réservés.
+
+Ce projet, son code source, son design, ses éléments graphiques et son contenu sont la propriété de Exiozz.
+
+Sauf autorisation écrite explicite de Exiozz, il est interdit de :
+
+- copier ou redistribuer le projet ;
+- modifier ou republier le code ;
+- vendre, louer ou commercialiser le projet ;
+- utiliser le projet ou une partie de celui-ci dans un autre produit ;
+- supprimer ou modifier les mentions de copyright et d'attribution.
+
+**L'utilisation, la modification ou la redistribution de ce projet nécessite l'autorisation préalable de son propriétaire.**
+
+Toute autorisation accordée peut être limitée, révoquée ou soumise à des conditions particulières.
+
+*Exiozz se réserve tous les droits non expressément accordés par la présente licence.*
